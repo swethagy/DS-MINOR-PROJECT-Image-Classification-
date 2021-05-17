@@ -1,1 +1,1 @@
-# DS-MINOR-PROJECT-Image-Classification-
+# DS-MINOR-APRIL-Image-Classification-
